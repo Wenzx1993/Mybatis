@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="87e68476-05b0-4e40-b1bf-bb681e7821d9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../apache-maven-3.6.2" />
+        <option name="userSettingsFile" value="$PROJECT_DIR$/../../apache-maven-3.6.2/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="#JAVA_INTERNAL" />
+  </component>
+  <component name="ProjectId" id="1UhTKFgFuOYilZrHDHKatzOWBZ3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../IPersistence/src/main/java/com/lagou" />
+      <recent name="$PROJECT_DIR$/../IPersistence/src/main/java/com/lagou/config" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.lagou.utils" />
+      <recent name="com.lagou.config" />
+      <recent name="com.lagou.sqlSession" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.IPersistenceTest.douleTest">
+    <configuration name="IPersistenceTest.douleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="IPersistence_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lagou.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lagou.test" />
+      <option name="MAIN_CLASS_NAME" value="com.lagou.test.IPersistenceTest" />
+      <option name="METHOD_NAME" value="douleTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IPersistenceTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="IPersistence_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lagou.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lagou.test" />
+      <option name="MAIN_CLASS_NAME" value="com.lagou.test.IPersistenceTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.IPersistenceTest.douleTest" />
+        <item itemvalue="JUnit.IPersistenceTest.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="87e68476-05b0-4e40-b1bf-bb681e7821d9" name="Default Changelist" comment="" />
+      <created>1575807761916</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575807761916</updated>
+      <workItem from="1575807763300" duration="3081000" />
+      <workItem from="1575812553825" duration="3769000" />
+      <workItem from="1575816989696" duration="23573000" />
+      <workItem from="1575890123656" duration="6180000" />
+      <workItem from="1575938678645" duration="11605000" />
+      <workItem from="1620706472175" duration="609000" />
+      <workItem from="1620802729686" duration="1386000" />
+      <workItem from="1620969516389" duration="609000" />
+      <workItem from="1620970522584" duration="181000" />
+      <workItem from="1621499917167" duration="2995000" />
+      <workItem from="1621503766042" duration="1068000" />
+      <workItem from="1621559705035" duration="285000" />
+      <workItem from="1623228421305" duration="4323000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="505" y="131" key="#Project_Structure" timestamp="1623230806312">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="505" y="131" key="#Project_Structure/0.0.2048.1112@0.0.2048.1112" timestamp="1623230806312" />
+    <state x="805" y="311" key="FileChooserDialogImpl" timestamp="1621559985758">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="805" y="311" key="FileChooserDialogImpl/0.0.2048.1112@0.0.2048.1112" timestamp="1621559985758" />
+    <state width="2005" height="305" key="GridCell.Tab.0.bottom" timestamp="1620805345535">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="305" key="GridCell.Tab.0.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1620805345535" />
+    <state width="2005" height="305" key="GridCell.Tab.0.center" timestamp="1620805345535">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="305" key="GridCell.Tab.0.center/0.0.2048.1112@0.0.2048.1112" timestamp="1620805345535" />
+    <state width="2005" height="305" key="GridCell.Tab.0.left" timestamp="1620805345535">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="305" key="GridCell.Tab.0.left/0.0.2048.1112@0.0.2048.1112" timestamp="1620805345535" />
+    <state width="2005" height="305" key="GridCell.Tab.0.right" timestamp="1620805345535">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="305" key="GridCell.Tab.0.right/0.0.2048.1112@0.0.2048.1112" timestamp="1620805345535" />
+    <state x="664" y="260" width="732" height="592" key="NewModule_or_Project.wizard" timestamp="1621502921757">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="664" y="260" width="732" height="592" key="NewModule_or_Project.wizard/0.0.2048.1112@0.0.2048.1112" timestamp="1621502921757" />
+    <state x="505" y="131" key="SettingsEditor" timestamp="1620802873692">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="505" y="131" key="SettingsEditor/0.0.2048.1112@0.0.2048.1112" timestamp="1620802873692" />
+    <state x="434" y="217" key="new project wizard" timestamp="1621502765170">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="434" y="217" key="new project wizard/0.0.2048.1112@0.0.2048.1112" timestamp="1621502765170" />
+  </component>
+</project>
